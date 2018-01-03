@@ -11,19 +11,18 @@ See [Moderation Workflow](https://github.com/utopian-io/moderation-guidelines/bl
 #### Categories
 
 1. [Suggestions](https://github.com/utopian-io/moderation-guidelines/blob/master/contributions/suggestions.md)
-2. [Task Requests](https://github.com/utopian-io/moderation-guidelines/blob/master/contributions/task-requests.md)
-3. [Development](https://github.com/utopian-io/moderation-guidelines/blob/master/contributions/development.md)
-4. [Bug Hunting](https://github.com/utopian-io/moderation-guidelines/blob/master/contributions/bug-hunting.md)
-5. [Translation](https://github.com/utopian-io/moderation-guidelines/blob/master/contributions/translation.md)
-6. [Graphics](https://github.com/utopian-io/moderation-guidelines/blob/master/contributions/graphics.md)
-7. [Analysis](https://github.com/utopian-io/moderation-guidelines/blob/master/contributions/analysis.md)
-8. [Visibility](https://github.com/utopian-io/moderation-guidelines/blob/master/contributions/visibility.md)
-9. [Documentation](https://github.com/utopian-io/moderation-guidelines/blob/master/contributions/documentation.md)
-10. [Tutorials](https://github.com/utopian-io/moderation-guidelines/blob/master/contributions/tutorials.md)
-11. [Video Tutorials](https://github.com/utopian-io/moderation-guidelines/blob/master/contributions/video-tutorials.md)
-12. [Copywriting](https://github.com/utopian-io/moderation-guidelines/blob/master/contributions/copy-writing.md)
-13. [Blog Posts](https://github.com/utopian-io/moderation-guidelines/blob/master/contributions/blog-posts.md)
-14. [Sub Projects](https://github.com/utopian-io/moderation-guidelines/blob/master/contributions/sub-projects.md)
+2. [Development](https://github.com/utopian-io/moderation-guidelines/blob/master/contributions/development.md)
+3. [Bug Hunting](https://github.com/utopian-io/moderation-guidelines/blob/master/contributions/bug-hunting.md)
+4. [Translation](https://github.com/utopian-io/moderation-guidelines/blob/master/contributions/translation.md)
+5. [Graphics](https://github.com/utopian-io/moderation-guidelines/blob/master/contributions/graphics.md)
+6. [Analysis](https://github.com/utopian-io/moderation-guidelines/blob/master/contributions/analysis.md)
+7. [Visibility](https://github.com/utopian-io/moderation-guidelines/blob/master/contributions/visibility.md)
+8. [Documentation](https://github.com/utopian-io/moderation-guidelines/blob/master/contributions/documentation.md)
+9. [Tutorials](https://github.com/utopian-io/moderation-guidelines/blob/master/contributions/tutorials.md)
+10. [Video Tutorials](https://github.com/utopian-io/moderation-guidelines/blob/master/contributions/video-tutorials.md)
+11. [Copywriting](https://github.com/utopian-io/moderation-guidelines/blob/master/contributions/copy-writing.md)
+12. [Blog Posts](https://github.com/utopian-io/moderation-guidelines/blob/master/contributions/blog-posts.md)
+13. [Sub Projects](https://github.com/utopian-io/moderation-guidelines/blob/master/contributions/sub-projects.md)
 
 #### Contributing to Guidelines
 
